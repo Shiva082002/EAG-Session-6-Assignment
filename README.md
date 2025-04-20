@@ -21,7 +21,7 @@ This project implements an intelligent agent that can solve mathematical problem
 - **`models.py`**  
   Pydantic models for type safety and validation for all the layers that are memory, perception, decision and action
 
-- **`mcp_tool.py`**  
+- **`example2-6.py`**  
   Mathematical computation tools and core operations.
 
 ---
@@ -33,7 +33,7 @@ This project implements an intelligent agent that can solve mathematical problem
 - **Memory Layer** — `memory.py`  
   Maintains computation history and state.
 
-- **Decision Making Layer** — `decision_making.py`  
+- **Decision Making Layer** — `decision.py`  
   Determines next operations and evaluates expressions.
 
 - **Action Layer** — `action.py`  
