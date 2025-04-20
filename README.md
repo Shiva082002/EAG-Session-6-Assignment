@@ -1,6 +1,6 @@
 # EAG-Session-6-Assignment
 
-# MCP Agent with Excel and Email Integration with using Chain-of-Thought (CoT) Prompting which satisfy prompt_of_prompts.md
+# MCP Agent with Excel and Email Integration with using all 4 layers
 
 This project implements an intelligent agent that can solve mathematical problems, display results in Microsoft Excel, and send screenshots via email MCP. It uses the MCP (Model Control Protocol) framework to connect a client with a server that provides various mathematical and utility tools.
 
